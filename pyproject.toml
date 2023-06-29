@@ -1,0 +1,18 @@
+[project]
+name = "HelloWorldTest"
+requires-python = "3.10"
+dependency = "requirements.txt"
+
+[project.author]
+name = "tlin051523"
+email = "tianyuan.lin@socgen.com"
+
+[deploy]
+
+[deploy.path]
+destination_path = "D:\\Project"
+env_path = "D:\\HOMEWARE\\Miniconda3-Windows-x86_64\\envs"
+
+[deploy.author]
+name = "tlin051523"
+email = "tianyuan.lin@socgen.com"
